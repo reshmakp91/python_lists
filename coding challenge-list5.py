@@ -1,4 +1,4 @@
-
+# count of an element in a list
 n = int(input("Enter the number of elements: "))
 list1 = []
 for i in range(n):
