@@ -1,4 +1,4 @@
-
+# common elements in 2 lists
 n1 = int(input("Enter the number of elements of list1: "))
 list1 = []
 for i in range(n1):
