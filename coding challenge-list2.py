@@ -1,3 +1,4 @@
+# reverse the elements in a list
 n = int(input("Enter the number of elements: "))
 list1 = []
 
