@@ -1,4 +1,4 @@
-
+# sum and average of elements in a list
 n = int(input("Enter the number of elements: "))
 list1=[]
 sum = 0
